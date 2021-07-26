@@ -1,9 +1,10 @@
 {
-  "products": [{
-    "id": 1,
-    "name": "Caneta BIC preta",
-    "price": 5.89
-  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": 5.89
+    },
     {
       "id": 2,
       "name": "Notebook Dell",
@@ -13,6 +14,11 @@
       "id": 3,
       "name": "TV 4k",
       "price": 2300.55
+    },
+    {
+      "name": "Novo Produto",
+      "price": 4.5,
+      "id": 4
     }
   ]
 }
