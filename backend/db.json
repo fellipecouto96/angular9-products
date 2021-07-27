@@ -19,6 +19,11 @@
       "name": "Novo Produto",
       "price": 4.5,
       "id": 4
+    },
+    {
+      "name": "Fellipe Couto",
+      "price": "1000",
+      "id": 5
     }
   ]
 }
